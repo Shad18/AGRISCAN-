@@ -60,13 +60,21 @@ This project demonstrates the practical application of Computer Vision and Deep 
 ### Crop Prediction
 
 <p align="center">
-  <img src="assets/crops.jpg" width="900">
+  <img src="assets/crop.jpg" width="900">
 </p>
+
 
 ### Weed Prediction
 
 <p align="center">
   <img src="assets/weeddd.jpg" width="900">
+</p>
+
+
+###Farm Prediction
+
+<p align="center">
+  <img src="assets/farms.jpg" width="900">
 </p>
 
 ---
